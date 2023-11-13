@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: topeducation-config-postgres
-          image: benjamingonzalezh/topeducation-config-postgres:latest
+          image: leonardom20/topeducation-config-postgres:latest
           ports:
             - containerPort: 8081
 ---

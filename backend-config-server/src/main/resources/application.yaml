@@ -8,5 +8,5 @@ spring:
       server:
         git:
           default-label: master
-          uri: https://github.com/BenjaminGonzalezH/TopEducation_MS
+          uri: https://github.com/Leonardo976/Tingeso-2
           search-paths: "config-data"

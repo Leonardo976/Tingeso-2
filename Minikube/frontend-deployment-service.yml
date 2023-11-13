@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: topeducation-frontend-postgres
-          image: benjamingonzalezh/topeducation-frontend-postgres:latest
+          image: leonardom20/topeducation-frontend-postgres:latest
           ports:
             - containerPort: 3000
 ---
